@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "894723016958",
+    "firebase_url": "https://fir-prova-7fe59-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-prova-7fe59",
+    "storage_bucket": "fir-prova-7fe59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894723016958:android:615ffec59b2f27c9053daf",
+        "android_client_info": {
+          "package_name": "com.example.authenticationwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyPn4T6kfFt0uzk0fyX6wHsYcwsiZ8Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894723016958:android:c3f8814a42212c48053daf",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyPn4T6kfFt0uzk0fyX6wHsYcwsiZ8Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894723016958:android:11508ea8bbde2ceb053daf",
+        "android_client_info": {
+          "package_name": "it.unimib.mywave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyPn4T6kfFt0uzk0fyX6wHsYcwsiZ8Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
