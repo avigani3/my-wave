@@ -1,4 +1,4 @@
-# MyWave
+# MyWave - Android App
 
 ## Introduzione
 
